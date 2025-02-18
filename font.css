@@ -1,6 +1,6 @@
 
 
-span[name="Label3"] {
+span[name="Label3"], span[name="label4"] {
    font-family: 'Arial' !important;
 color : red !important
 }
