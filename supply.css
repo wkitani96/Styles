@@ -11,7 +11,8 @@ span[name="Label90"],span[name="Label91"],span[name="Label92"],span[name="Label9
 span[name="Label100"],span[name="Label101"],span[name="Label102"],span[name="Label103"],span[name="Label104"],span[name="Label105"]
 
 {
-   font-family: 'Helvetica' !important; 
+   font-family: 'Helvetica' !important;
+   color: yellow !important
  
 }
 
@@ -34,6 +35,7 @@ span[name="Label291"],span[name="Label292"],span[name="Label293"],span[name="Lab
 
 {
    font-family: 'GE Dinar-One' !important;
+   color: yellow !important;
   
 }
 
