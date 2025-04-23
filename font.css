@@ -14,7 +14,7 @@ span[name="Label58"], span[name="Label160"], span[name="Label162"], span[name="L
 span[name="Label167"], span[name="Label5"], span[name="Labela"], span[name="Labelb"], span[name="Label2"], span[name="Label27"]
 {
    font-family: 'Helvetica' !important;
-   color: red;
+   color: red !important;
   
  
 }
@@ -35,7 +35,7 @@ span[name="Labell"], span[name="Labelm"], span[name="Labeln"], span[name="Label4
 {
    font-family: 'GE Dinar-One' !important;
     direction: rtl;
-   color: white;
+   color: white !important;
   
 }
 
