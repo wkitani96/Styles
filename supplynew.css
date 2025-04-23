@@ -14,7 +14,7 @@ span[name="Label211"], span[name="Label231"], span[name="Label233"], span[name="
 span[name="Label247"], span[name="Label249"], span[name="Label250"], span[name="Label251"], span[name="Label252"], span[name="Label253"], span[name="Label254"],
 span[name="Label255"], span[name="Label256"], span[name="Label257"], span[name="Label258"], span[name="Label277"], span[name="Label279"], span[name="Label280"],
 span[name="Label281"], span[name="Label282"], span[name="Label283"], span[name="Label284"], span[name="Label285"], span[name="Label286"], span[name="Label2"],
-span[name="Label27"],  span[name="Label38"], span[name="Labe36"]
+span[name="Label27"],  span[name="Label38"], span[name="Labe36"], span[name="Labelabc"]
 
 
 
@@ -22,6 +22,7 @@ span[name="Label27"],  span[name="Label38"], span[name="Labe36"]
 
 {
    font-family: 'Helvetica' !important;
+   color: red !important;
    
   
   
@@ -50,13 +51,15 @@ span[name="Label237"], span[name="Label241"], span[name="Label242"], span[name="
 span[name="Label261"], span[name="Label262"], span[name="Label263"], span[name="Label265"], span[name="Label266"], span[name="Label268"], span[name="Label269"],
 span[name="Label270"], span[name="Label272"], span[name="Label274"], span[name="Label275"], span[name="Label276"], span[name="Label278"], span[name="Label287"],
 span[name="Label288"], span[name="Label289"], span[name="Label290"], span[name="Label291"], span[name="Label292"], span[name="Label293"],
-span[name="Label107"], span[name="Label42"], span[name="Label104"], span[name="Label173"], span[name="Label4"]
+span[name="Label107"], span[name="Label42"], span[name="Label104"], span[name="Label173"], span[name="Label4"],
+span[name="Label0f"], span[name="Label1f"], span[name="Label2f"], span[name="Label3f"], span[name="Label4f"], span[name="Label5f"], span[name="Label6f"], span[name="Label7f"]
 
 
 
 {
    font-family: 'GE Dinar-One' !important;
    direction: rtl;
+   color: white !important;
  
    
   
